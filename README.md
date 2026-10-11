@@ -3,7 +3,7 @@ to major English dictionaries between 2020 and 2026.
 
 Compiled: 11 October 2026
 
-SOURCES CONSULTED
+Sources
 - Merriam-Webster (merriam-webster.com; new-word batches and the 12th
   edition of Merriam-Webster's Collegiate Dictionary)
 - Oxford English Dictionary / Oxford Languages (quarterly OED updates)
@@ -14,7 +14,7 @@ SOURCES CONSULTED
   Washington Post, Time, Business Insider, Chico Enterprise-Record,
   WPMI/NBC15, infoDOCKET, New Statesman, OUP Blog, and others.
 
-METHOD NOTES
+Notes
 - Each entry lists the word, part of speech, a short definition, and the
   dictionary (via the news source that published its official list).
 - Batch sizes shown in entry sources (e.g. "Sept 2023 update (690 words)")
