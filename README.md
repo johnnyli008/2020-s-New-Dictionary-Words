@@ -1,7 +1,6 @@
 A compiled reference of words and phrases reported as newly added
 to major English dictionaries between 2020 and 2026.
 
-Compiled: 11 October 2026
 
 Sources
 - Merriam-Webster (merriam-webster.com; new-word batches and the 12th
