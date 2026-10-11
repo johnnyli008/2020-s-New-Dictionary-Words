@@ -1,4 +1,3 @@
-NEWLY ADDED DICTIONARY WORDS, 2020-2026
 A compiled reference of words and phrases reported as newly added
 to major English dictionaries between 2020 and 2026 (2026 to date).
 Compiled: 11 October 2026
