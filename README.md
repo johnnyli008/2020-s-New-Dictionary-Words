@@ -1,5 +1,6 @@
 A compiled reference of words and phrases reported as newly added
-to major English dictionaries between 2020 and 2026 (2026 to date).
+to major English dictionaries between 2020 and 2026.
+
 Compiled: 11 October 2026
 
 SOURCES CONSULTED
