@@ -1,8 +1,6 @@
 A compiled reference of words and phrases reported as newly added
 to major English dictionaries between 2020 and 2026.
 
-
-
 Sources
 - Merriam-Webster (merriam-webster.com; new-word batches and the 12th
   edition of Merriam-Webster's Collegiate Dictionary)
@@ -13,7 +11,6 @@ Sources
   NPR, BBC, ABC News / GMA, CBC, Mental Floss, USA Today, The Guardian,
   Washington Post, Time, Business Insider, Chico Enterprise-Record,
   WPMI/NBC15, infoDOCKET, New Statesman, OUP Blog, and others.
-
 
 Notes
 - Each entry lists the word, part of speech, a short definition, and the
